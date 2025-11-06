@@ -1,3 +1,28 @@
+## 𝐇𝐞𝐥𝐥𝐨 𝐭𝐡𝐞𝐫𝐞, 𝐟𝐞𝐥𝐥𝐨𝐰 <𝚌𝚘𝚍𝚎𝚛 />!<img src="https://user-images.githubusercontent.com/74038190/214644152-52f47eb3-5e31-4f47-8758-05c9468d5596.gif" width="30px"></a></h1>
+
+<br/>
+ <img align="left" src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="80">    
+</a>
+<p align="center">
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=2000&pause=100&multiline=true&width=435&height=100&separator=%3C&lines=I+am+Vaibhav+Rai;+%3CLead+Software+Engineer+%40+Tydo;+%3CBackend+%7C+Cloud+%7C+Data-Pipeline+%7C+Devops+Expert;+%3CDistributed+Systems+%7C+Microservice%7C+Infrastructure+Expert" alt="Typing SVG" /></a>
+</p>
+
+## Online Portfolio
+<p align="left" >
+    <a href="https://www.linkedin.com/in/vaibhavrai46/">
+    <img alt="Linkedin" src="https://img.shields.io/badge/Linkedin-0A66C2?style=for-the-badge&logo=github&logoColor=white">
+<a href="https://github.com/vaibhav2408">
+    <img alt="GitHub" src="https://img.shields.io/badge/Github-181717?style=for-the-badge&logo=github&logoColor=white">
+  </a>
+<a href="mailto:vaibhavrai46@gmail.com">
+    <img alt="Gmail" src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=Gmail&logoColor=white">
+  </a>
+<a href="https://www.linkedin.com/in/vaibhavrai46/">
+    <img alt="Resume" src="https://img.shields.io/badge/Resume-FFFF66?style=for-the-badge&logo=adobeacrobatreader&logoColor=black">
+  </a>
+</p>
+
+
 # Hi there, I'm Vaibhav Rai 👋
 
 ## Lead Software Engineer | Data Engineering & AI/ML Expert
@@ -118,6 +143,18 @@ Visvesvaraya Technological University (VTU) - Bangalore
 
 ---
 
-⚡ **Fun fact:** I specialize in turning complex data problems into elegant, scalable solutions that drive real business impact!
+## Fun Facts
+- 🏏 Club level cricket player
+- 🤓 Self-proclaimed coding nerd who loves diving deep into complex technical challenges
+- 💪 I try and hit the gym regularly.
+- 🎮 I am a gaming nerd, got my PS5 on the launch day in India, waited 3 hours on amazon to order! Also, my linkedin handle name is same as my gaming name.
+- 🏡 I love working remotely but prefer working from a single location, over being a Digital Nomad.
+- 📈 I'm extremely bullish on the Indian stock market and have a strong belief that the upcoming decades will mark the greatest period India has ever experienced.
+
+
+
+<p align="center">
+<img alt="github-snake" src="https://raw.githubusercontent.com/Sutil/Sutil/2b2fad3bf54522bb30c8c170591fc68ff51b69e6/github-contribution-grid-snake2.svg" title="🐍 Watch how the snake's eating my contributions" />
+</p>
 
 ---
