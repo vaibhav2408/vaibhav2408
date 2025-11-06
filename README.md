@@ -143,13 +143,9 @@ Visvesvaraya Technological University (VTU) - Bangalore
 
 ---
 
-## Fun Facts
+## Couple of Fun Facts
 - 🏏 Club level cricket player
 - 🤓 Self-proclaimed coding nerd who loves diving deep into complex technical challenges
-- 💪 I try and hit the gym regularly.
-- 🎮 I am a gaming nerd, got my PS5 on the launch day in India, waited 3 hours on amazon to order! Also, my linkedin handle name is same as my gaming name.
-- 🏡 I love working remotely but prefer working from a single location, over being a Digital Nomad.
-- 📈 I'm extremely bullish on the Indian stock market and have a strong belief that the upcoming decades will mark the greatest period India has ever experienced.
 
 
 
