@@ -1,10 +1,10 @@
 ## 𝐇𝐞𝐥𝐥𝐨 𝐭𝐡𝐞𝐫𝐞!<img src="https://user-images.githubusercontent.com/74038190/214644152-52f47eb3-5e31-4f47-8758-05c9468d5596.gif" width="30px"></a></h1>
 
 <br/>
- <img align="left" src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="80">    
+ <img align="left" src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="100">    
 </a>
 <p align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=2000&pause=100&multiline=true&width=435&height=100&separator=%3C&lines=I+am+Vaibhav+Rai;+%3CLead+Software+Engineer+%40+Tydo;+%3CBackend+%7C+Cloud+%7C+Data-Pipeline+%7C+Devops+Expert;+%3CDistributed+Systems+%7C+Microservice%7C+Infrastructure+Expert" alt="Typing SVG" /></a>
+<b><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=2000&pause=800&multiline=true&width=530&height=100&separator=%3C&lines=I+am+Vaibhav+Rai;+%3CLead+Software+Engineer+%40+Tydo;+%3CBackend+%7C+Cloud+%7C+Data-Pipeline+%7C+Devops+Expert;+%3CDistributed+Systems+%7C+Microservice%7C+Infra+Expert;" alt="Typing SVG" /></a></b>
 </p>
 
 ## Online Portfolio
@@ -17,15 +17,12 @@
 <a href="mailto:vaibhavrai46@gmail.com">
     <img alt="Gmail" src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=Gmail&logoColor=white">
   </a>
-<a href="https://www.linkedin.com/in/vaibhavrai46/">
-    <img alt="Resume" src="https://img.shields.io/badge/Resume-FFFF66?style=for-the-badge&logo=adobeacrobatreader&logoColor=black">
-  </a>
 </p>
 
 
 # Hi there, I'm Vaibhav Rai 👋
 
-## Lead Software Engineer | Data Engineering & AI/ML Expert
+## Lead Software Engineer | Data Engineering | DevOps & AI/ML Expert
 
 🚀 **8+ years** of experience building scalable backend and data platforms and AI-powered solutions.
 💼 Currently leading engineering at **Tydo** (US Remote)
@@ -38,7 +35,7 @@
 - 💰 Built AI-powered Klaviyo campaign platform generating **$1M+ in attributable revenue**
 - 🤖 Designed **Model Context Protocol (MCP)** server enabling intelligent e-commerce data querying
 - 📊 Architected data pipelines processing **5TB+ daily** with <0.1% error rate serving **4,000+ stores**
-- ⚡ Engineered real-time metrics API handling **1M+ daily requests** with sub-500ms latency
+- ⚡ Engineered metrics API handling **1M+ daily requests** with sub-500ms latency
 - 🏆 Multiple awards: Engineering Impact Award, Employee of the Quarter, HPE Spot Awards
 
 ---
@@ -75,8 +72,10 @@
 ![Airbyte](https://img.shields.io/badge/-Airbyte-615EFF?style=flat-square&logo=airbyte&logoColor=white)
 ![PubSub](https://img.shields.io/badge/-PubSub-231F20?style=flat-square&logo=apache-kafka&logoColor=white)
 
-### AI/ML Integration
-- **LLMs** | **Model Context Protocol (MCP)** | **Claude Code** | **Prompt Engineering**
+### LLM/AI/ML
+![LLMs](https://img.shields.io/badge/-LLMs-2496ED?style=flat-square&logo=openai&logoColor=white)
+![Model Context Protocol (MCP)](https://img.shields.io/badge/-Model%20Context%20Protocol%20(MCP)-326CE5?style=flat-square&logo=modelcontextprotocol&logoColor=white)
+![Prompt Engineering](https://img.shields.io/badge/-Prompt%20Engineering-7B42BC?style=flat-square&logo=claude&logoColor=white)
 
 ### DevOps & Tools
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
